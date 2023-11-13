@@ -20,9 +20,8 @@ Additionally, Rest API security has been implemented to enhance the overall secu
 ## Installation and Usage
 1. Clone this repository.
 2. Set up your Java/Spring development environment.
-3. Run the `mvn clean install` command to compile the project.
-4. Run the application.
-5. Access the API endpoints to interact with the data.
+3. Run the application.
+4. Access the API endpoints to interact with the data.
 
 ## Technologies Used
 - Spring Boot
