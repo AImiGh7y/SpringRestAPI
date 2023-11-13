@@ -3,7 +3,7 @@
 ## Description
 The SpringRestAPI project is a REST API application developed using Spring Boot framework. Basically it's a mini project that I created to understand how Rest APIs work. This API provides a set of RESTful web services for flexible and efficient data interactions using Spring Data JPA (this is before updating to Spring DATA REST which simplifies (by a lot) the development of RESTful APIs for data-driven applications).
 
-Additionally, Rest API security has been implemented to enhance the overall security posture of the application, ensuring robust protection of sensitive data and endpoints.
+Additionally, Rest API security and JDBC Authentication has been implemented to enhance the overall security posture of the application, ensuring robust protection of sensitive data and endpoints.
 
 ## Key Features
 - CRUD (Create, Read, Update, Delete) operations on data.
@@ -11,6 +11,7 @@ Additionally, Rest API security has been implemented to enhance the overall secu
 - Implements the Rest-Service-DAO model for efficient data management.
 - Offers carefully designed endpoints for data interactions and manipulation.
 - Utilizes modern technologies to ensure high performance and reliability.
+- JDBC Authentication
 
 ## Prerequisites
 - JDK 17
