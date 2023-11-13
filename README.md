@@ -28,13 +28,4 @@ Additionally, Rest API security has been implemented to enhance the overall secu
 - Spring Boot
 - Java
 - RESTful Web Services
-- Database (You may add the database you're using here)
-
-## Contribution
-Contributions are welcome! To suggest improvements, please create a Pull Request detailing the proposed changes.
-
-## License
-This project is licensed under [Your License].
-
-## Contact
-For suggestions, questions, or additional information, please contact via [your email or other communication channels, if applicable].
+- MySQL
