@@ -1,4 +1,4 @@
-# SpringRestAPI
+# Spring Rest API
 
 ## Description
 The SpringRestAPI project is a REST API application developed using Spring Boot framework. Basically it's a mini project that I created to understand how Rest APIs work. This API provides a set of RESTful web services for flexible and efficient data interactions using Spring Data JPA (this is before updating to Spring DATA REST which simplifies (by a lot) the development of RESTful APIs for data-driven applications).
